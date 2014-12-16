@@ -1,0 +1,146 @@
+/* styles that make the mayor section */
+header {border-bottom: 5px solid #b98b00;}
+
+header .navbar .brand {color: #b98b00;}
+
+#subheader {
+background-color: #b98b00;
+}
+
+#footer-atoz {background: #b98b00;}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  background-color: #b98b00 !important;
+}
+
+/*buttons*/
+
+.btn a, .btn a:hover {
+	color:#fff;
+}
+.btn {
+	color: #ffffff;
+
+}
+.btn:hover, .btn:active, .btn.active, .btn.disabled, .btn[disabled] {
+	color: #fff;
+
+}
+.btn:hover, .btn:focus {
+	color: #fff;
+
+}
+.btn-primary {
+  color: #ffffff;
+  background-color: #b98b00;
+  background-image: none;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  color:#fff;
+  background-color: #c69910;
+}
+
+.btn {
+  color: #ffffff;
+  background-color:#b98b00;
+}	
+
+.section-summary-block h2 {
+	background-color:#b98b00;
+}
+
+caption {background-color:#b98b00;}
+
+/*layout and content - landing page elements*/
+a.landing-link:hover {
+	color:#b98b00;
+}
+.landing-item h3 {
+    color:#b98b00;
+} 
+
+.landing-item {
+		   *height:160px;
+}
+.section-summary-block h2 {
+	background-color:#b98b00;
+}
+
+
+/*blockquote*/
+blockquote, .blockquote {
+    border-left: 4px solid #b98b00;   
+}
+ 
+
+
+/*pullquote*/
+.pullquote {
+border-top: 4px solid #b98b00;
+border-bottom: 4px solid #b98b00;
+}
+
+/*related pages*/
+.related-pages-block h2 {
+background-color: #b98b00;
+}
+
+/*Mayor homepage Carousel*/
+
+#mayorCarousel.carousel .item {height:450px!important;}
+#mayorCarousel .carousel-inner{height:450px!important;}
+
+.mayorHdr h1{font-size:25px!important;margin:0px;padding:0px;}
+.mayorHdr{padding:10px;}
+#mayorPledges{
+position:absolute;
+top:330px;
+width:100%;
+max-width:100%;
+background:#444;
+height:100px;
+padding:20px;
+}
+#mayorPledges h2{margin-top:-20px;margin-bottom:0px;}
+
+#mayorCarousel .carousel-caption {background-color:rgba(55,59,67)!important; margin-top:12px; max-width:500px}
+#mayorCarousel .carousel-caption h1{font-size: 28px;margin-left10px;}
+#mayorCarousel .carousel-caption h2{font-size: 20px;margin-left10px;color:#fff;}
+#mayorCarousel.carousel {margin-bottom:10px!important}
+
+@media (min-width: 768px) and (max-width: 979px) {  
+#mayorCarousel.carousel .item {height:300px!important;}
+#mayorCarousel .carousel-caption {margin-top:20px;}
+#mayorCarousel.carousel .item .lccNews img {
+max-width: 248px;
+min-width:auto;
+}
+
+}
+
+#mayorCarousel.carousel .item .lccNews img {
+max-width: 320px;
+min-width:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

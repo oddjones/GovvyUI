@@ -1,0 +1,130 @@
+/* Styles specific to the business section */
+header {border-bottom: 5px solid #006FAE;}
+
+header .navbar .brand {color: #006FAE;}
+#subheader {
+background-color: #006FAE;
+}
+footer.well {
+  border-color: #006FAE; 
+}
+
+#footer-atoz {
+	background: #006FAE;
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  background-color: #006FAE !important;
+}
+
+a {
+  color: #006FAE;
+} 
+
+/*buttons*/
+
+.btn a, .btn a:hover {
+	color:#fff;
+}
+.btn {
+	color: #ffffff;
+
+}
+.btn:hover, .btn:active, .btn.active, .btn.disabled, .btn[disabled] {
+	color: #fff;
+
+}
+.btn:hover, .btn:focus {
+	color: #fff;
+
+}
+.btn-primary {
+  color: #ffffff;
+  background-color: #006FAE;
+  background-image: none;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  color:#fff;
+  background-color: #0a6294;
+}
+
+/*layout and content - home page elements*/
+.section-highlights ul li a:hover {
+	color:#3184be;
+}
+			
+/*layout and content - landing page elements*/
+a.landing-link:hover {
+	color:#3184be;
+}
+.landing-item h3 {
+    color:#006FAE;
+} 
+
+.landing-item {
+		   *height:160px;
+}
+.section-summary-block h2 {
+	background-color:#006FAE;
+}
+
+
+
+caption {background-color:#006FAE;}
+
+
+/*blockquote*/
+blockquote, .blockquote {
+    border-left: 4px solid #006FAE;   
+}
+
+/*pullquote*/
+.pullquote {
+border-top: 4px solid #006FAE;
+border-bottom: 4px solid #006FAE;
+}
+
+/*related pages*/
+.related-pages-block h2 {
+background-color: #006FAE;
+}
+
+/*Business homepage Carousel*/
+
+#businessCarousel.carousel .item {height:320px!important;}
+
+#businessCarousel .carousel-caption {background-color:rgba(55,59,67)!important; margin-top:115px; padding:15px 0 15px 10px;}
+#businessCarousel .carousel-caption h1{font-size: 28px;margin-left10px;}
+#businessCarousel .carousel-caption h2{font-size: 20px;margin-left10px;color:#fff;}
+#businessCarousel.carousel {margin-bottom:10px!important}
+
+@media (min-width: 768px) and (max-width: 979px) {  
+#businessCarousel.carousel .item {height:300px!important;}
+#businessCarousel .carousel-caption {margin-top:40px;}
+#businessCarousel.carousel .item .lccNews img {
+max-width: 248px;
+min-width:auto;
+}
+
+}
+
+#businessCarousel.carousel .item .lccNews img {
+max-width: 320px;
+min-width:auto;
+}
+
+
+.subnav .nav > li > a {text-decoration:none!important}
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

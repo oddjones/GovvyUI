@@ -1,0 +1,80 @@
+.offscreen-banner {
+	/*min-height: 80px;*/
+	background: #373b43;
+	color: #ededed;
+	}
+.offscreen-banner h2 {
+	color: #ededed;
+	}
+.offscreen-banner p {
+	margin: 10px;
+	}
+.none {
+	display: none;
+	}
+
+.navbar .nav > li > a#offscreen-button {
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	background: whiteSmoke;
+	cursor: pointer;
+	}
+
+.offscreen-banner .email-input {
+	margin-bottom: 10px;
+	padding-left: 10px;
+		}
+
+
+.offscreen-banner .input-append .btn {
+	padding: 4px 12px;
+	border-radius: 0px;
+		}
+
+.kmp-banner .input-append .btn {
+	padding: 4px 12px;	
+	border-radius: 0px;
+	}
+
+.offscreen-banner-nav {
+	margin-left: 0px;
+}
+
+@media (max-width: 1200px) and (min-width: 980px) {
+	.navbar-search .search-query {
+	width:100px;
+	float: left;
+	}
+	.navbar-search {
+	margin-left: 0px;
+				}
+	.navbar .nav {
+	margin-right: 0px;
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

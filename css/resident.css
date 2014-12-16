@@ -1,0 +1,65 @@
+/* styles that make the resident section */
+header {border-bottom: 5px solid #806AAF;}
+
+header .navbar .brand {color: #522E91;}
+
+a {
+  color: #806aaf;
+}
+
+#subheader {
+background-color: #806AAF;
+}
+
+
+footer.well {
+  border-color: #806AAF;
+}
+
+#footer-atoz {
+	background: #806AAF;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  background-color: #806AAF !important;
+}
+
+caption {background-color:#806AAF;}
+
+.btn a, .btn a:hover {
+	color:#fff;
+}
+
+.btn:hover, .btn:focus {
+	color: #fff;
+
+}
+
+.btn-primary {
+  color:#ffffff;
+  background-color: #806aaf;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+    color:#ffffff;
+    /*background-color: #000;*/
+	background-color: #68479d;
+}
+
+.adult-learning thead { 
+  background: #373b43;
+  color:#fff;
+}
+
+.adult-learning thead tr th {
+	padding:20px 10px 20px 10px;			
+}
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

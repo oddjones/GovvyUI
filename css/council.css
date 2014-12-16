@@ -1,0 +1,134 @@
+/* styles that make the council section */
+header {border-bottom: 5px solid #397A22;}
+
+header .navbar .brand {color:#397A22;}
+#subheader {
+background-color: #397A22;
+}
+footer.well {
+  border-color: #397A22; 
+}
+
+#footer-atoz {
+	background: #397A22;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  background-color: #397A22 !important;
+}
+
+a {
+  color: #397A22;
+} 
+
+/*buttons*/
+
+.btn a, .btn a:hover {
+	color:#fff;
+}
+.btn {
+	color: #ffffff;
+
+}
+.btn:hover, .btn:active, .btn.active, .btn.disabled, .btn[disabled] {
+	color: #fff;
+
+}
+.btn:hover, .btn:focus {
+	color: #fff;
+
+}
+.btn-primary {
+  color: #ffffff;
+  background-color: #397A22!important;
+  background-image: none;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  color: #ffffff;
+  background-color: #2a5d18;
+}
+
+/*layout and content - home page elements*/
+.section-highlights ul li a:hover {
+	color:#7aac36;
+}
+			
+/*layout and content - landing page elements*/
+a.landing-link:hover {
+	color:#397A22;
+}
+.landing-item h3 {
+    color:#397A22;
+} 
+
+.section-summary-block h2 {
+	background-color:#397A22;
+}
+
+
+caption {background-color:#397A22;}
+
+/*blockquote*/
+blockquote, .blockquote {
+    border-left: 4px solid #397A22;   
+}
+
+/*pullquote*/
+.pullquote {
+border-top: 4px solid #397A22;
+border-bottom: 4px solid #397A22;
+}
+
+/*related pages*/
+.related-pages-block h2 {
+background-color: #397A22;
+}
+
+ul.tabButtons li a:link, ul.tabButtons li a:visited {
+	color:#397A22;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
