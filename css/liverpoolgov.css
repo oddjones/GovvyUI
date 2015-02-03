@@ -377,6 +377,51 @@ textarea.input-contact.error,input.input-contact.error{background-color:#ffebeb;
 /*  9. ALERTS, LABELS, BADGES */
 /*-------------------------------------------------------------------------------------------*/
 
+/*JE add 1/2015*/
+.alert {
+  background-color: #d8b05d;
+  border: 0;
+}
+.alert,
+.alert h4,
+.alert h1 {
+  color: #fff;
+}
+
+.alert a {
+  color:#333333;
+}
+
+.alert-info {
+  background-color: #81c7e1;
+  border-color: #bce8f1;
+  border:0;
+  color: #fff;
+}
+.alert-info h4 {
+  color: #fff;
+}
+a.alert-info {
+	color:
+}
+.alert-success {
+  background-color: #66c796;
+  border-color: #d6e9c6;
+  border:0;
+  color: #fff;
+}
+.alert-success h4 {
+  color: #468847;
+}
+.alert-warning {
+  background-color: #E26868;
+  border:0;
+  color: #fff;
+}
+.alert-warning h4 {
+  color: #fff;
+}
+
 /*-------------------------------------------------------------------------------------------*/
 /*  10. MISC */
 /*-------------------------------------------------------------------------------------------*/
