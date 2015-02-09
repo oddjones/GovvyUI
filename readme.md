@@ -6,3 +6,5 @@ This is a template for third parties who wish to style their applications to mat
 Liverpool.gov.uk makes use of icon font rendering and as such these templates need to be run from a web server in order to render correctly. 
 
 The templates have been constructed expecting the site to run as a virtual host with its own uri.
+
+A demo site can be seen at [http://http://oddjones.github.io/GovvyUI/]
