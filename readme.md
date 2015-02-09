@@ -7,4 +7,4 @@ Liverpool.gov.uk makes use of icon font rendering and as such these templates ne
 
 The templates have been constructed expecting the site to run as a virtual host with its own uri.
 
-A demo site can be seen at [oddjones.github.io/GovvyUI/]
+A demo site can be seen at [http://oddjones.github.io/GovvyUI/]
